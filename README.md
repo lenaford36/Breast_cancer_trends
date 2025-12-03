@@ -36,6 +36,16 @@ Breast_cancer_project/
 ## 🧪 Methods Used  
 
 ### **Data Preparation**
+-All data comes from publicly available CDC datasets:
+
+CDC WONDER — U.S. Cancer Statistics mortality data
+
+CDC WONDER — U.S. Cancer Statistics incidence by age
+
+State Cancer Profiles — Mammography screening prevalence
+
+All downloaded datasets are stored in the /data folder.
+
 - Loaded datasets using `pandas.read_csv`
 - Renamed columns for readability
 - Merged state-level datasets using `pd.merge` on `"State"`
