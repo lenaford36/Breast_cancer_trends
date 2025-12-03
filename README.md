@@ -21,8 +21,7 @@ The analysis explores three main research questions:
 Breast_cancer_project/
 │
 ├── breast_cancer_trends.ipynb    
-├── requirements.txt               
-├── README.md                      
+├── requirements.txt                                  
 │
 └── data/
     ├── mortality.csv              
