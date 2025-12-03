@@ -94,12 +94,14 @@ breast_cancer_trends.ipynb
 Run all cells to load data, perform analysis, and generate charts.
 
 ---
+Link to full notebook here: 
 https://github.com/lenaford36/Breast_cancer_trends/blob/main/breast_cancer_trends.ipynb
 
 
 ## Sources
-- Centers for Disease Control and Prevention (CDC)  
-- United States Cancer Statistics (USCS)  
-- Behavioral Risk Factor Surveillance System (BRFSS)  
+- Centers for Disease Control and Prevention (CDC) https://wonder.cdc.gov/cancer-v2020.html, https://wonder.cdc.gov/cancermort-v2021.html
+  
+- National Cancer Institute/NIH https://statecancerprofiles.cancer.gov/risk/index.php?topic=women&risk=v05&race=00&datatype=0&type=risk&sortVariableName=default&sortOrder=default#results
+- Chat GPT: Chat GPT used to help with data collection, 
 
 ---
